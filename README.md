@@ -1,1 +1,1 @@
-blu [ghost](http://ghost.org) theme inspired by [Kathy Qian](http://kathyqian.com).
+blu-ghost-theme inspired by [crisp-ghost-theme](https://github.com/kathyqian/crisp-ghost-theme).
