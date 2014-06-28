@@ -112,7 +112,8 @@ ul, ol {
 }
 code {
 	font-size:1.2em;
-	background: #eee;
+	/* background: #eee; */
+	border: 1px solid #e1e1e8;
 }
 pre {
 	font-size: 0.9em;
